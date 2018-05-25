@@ -3,4 +3,4 @@
 
 
 ### Hello World!
-My name is Mike.__
+My name is Mike
